@@ -52,7 +52,7 @@ Data Structures | OOP | DBMS | Basic Web Development
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitasinha13&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=ankitasinha13&color=blue)
 
 ---
 
