@@ -1,5 +1,5 @@
 # Hi, I'm Ankita Sinha 👋  
-### B.Tech Student | Tech Enthusiast | Aspiring Developer
+### Data Science Student | Aspiring Data Scientist | Python • SQL • Machine Learning
 
 ---
 
@@ -20,7 +20,8 @@ I believe in:
 
 - Strengthening programming fundamentals  
 - Practicing Data Structures & Algorithms  
-- Improving frontend development skills  
+- SQL for Data Analytics
+- Machine Learning
 - Building academic and personal projects  
 
 ---
@@ -28,13 +29,19 @@ I believe in:
 ## 🛠 Skills
 
 ### 👩‍💻 Programming Languages
-Python | C | Java | SQL  
+Python | C | SQL 
+
+### 📚 Libraries
+Numpy | Pandas
 
 ### 🌐 Web Development
 HTML | CSS  
 
 ### 🧰 Tools
-Git | GitHub | VS Code | MySQL  
+Git | GitHub | Jupyter Notebook | VS Code | MySQL  
+
+### ☁️ Currently Learning
+Power BI | Tableau | AWS
 
 ### 📚 Core Concepts
 Data Structures | OOP | DBMS | Basic Web Development  
