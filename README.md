@@ -1,5 +1,5 @@
 # Hi, I'm Ankita Sinha 👋  
-### Data Science Student | Aspiring Data Scientist | Python • SQL • Machine Learning
+### Data Science Student | Python | SQL | Machine Learning | Building Data-Driven Solutions
 
 ---
 
